@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/1-MakeItBrowser/static/css/main.ec78cdb0.css",
+    "main.js": "/1-MakeItBrowser/static/js/main.f5166999.js",
+    "static/js/787.2914bd6d.chunk.js": "/1-MakeItBrowser/static/js/787.2914bd6d.chunk.js",
+    "index.html": "/1-MakeItBrowser/index.html",
+    "main.ec78cdb0.css.map": "/1-MakeItBrowser/static/css/main.ec78cdb0.css.map",
+    "main.f5166999.js.map": "/1-MakeItBrowser/static/js/main.f5166999.js.map",
+    "787.2914bd6d.chunk.js.map": "/1-MakeItBrowser/static/js/787.2914bd6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec78cdb0.css",
+    "static/js/main.f5166999.js"
+  ]
+}
